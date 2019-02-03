@@ -1,0 +1,16 @@
+module.exports = Product = {
+    uuids: String,
+    barcode: String,
+    productCode: Number,
+    productName: Number,
+    cost: Number,
+    vendorId: Number,
+    minimumQuantity: Number,
+    currentQuantity: Number,
+    unit: String,
+    productTypeCode: String,
+    foodId: Number,
+    userId: Number,
+    createdAt: Date,
+    updatedAt: Date,
+}
